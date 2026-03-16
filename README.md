@@ -1,6 +1,6 @@
 <!-- ================= HEADER ================= -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Karansingh22/karansingh22/main/github banner.png" width="100%" height="55%">
+  <img src="https://raw.githubusercontent.com/Karansingh22/karansingh22/main/github banner.png" width="100%" height="40%">
 </p>
 <h1 align="center">Hi 👋, I'm Karan Singh</h1>
 <h3 align="center">AI Engineer | LLM Systems | Agentic AI</h3>
