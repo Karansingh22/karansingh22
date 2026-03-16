@@ -1,5 +1,7 @@
 <!-- ================= HEADER ================= -->
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Karansingh22/karansingh22/main/banner.png" width="100%">
+</p>
 <h1 align="center">Hi 👋, I'm Karan Singh</h1>
 <h3 align="center">AI Engineer | LLM Systems | Agentic AI</h3>
 
@@ -45,13 +47,17 @@ Building scalable AI systems, autonomous agents, and production RAG pipelines.
 ![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge\&logo=python)
 ![SQL](https://img.shields.io/badge/SQL-orange?style=for-the-badge\&logo=mysql)
 
-### AI / ML
+## 🤖 AI Frameworks
 
 ![LangChain](https://img.shields.io/badge/LangChain-black?style=for-the-badge)
 ![LangGraph](https://img.shields.io/badge/LangGraph-purple?style=for-the-badge)
 ![CrewAI](https://img.shields.io/badge/CrewAI-blue?style=for-the-badge)
-![Google ADK](https://img.shields.io)
-![Transformers](https://img.shields.io/badge/HuggingFace-yellow?style=for-the-badge)
+![Google ADK](https://img.shields.io/badge/Google%20ADK-Agent%20Development%20Kit-4285F4?style=for-the-badge&logo=google&logoColor=white)
+
+## 🧠 Vector Databases
+
+![ChromaDB](https://img.shields.io/badge/ChromaDB-Vector%20Store-purple?style=for-the-badge)
+![Pinecone](https://img.shields.io/badge/Pinecone-Vector%20Database-14B8A6?style=for-the-badge)
 
 ### Cloud
 
@@ -137,11 +143,11 @@ Evaluate AI responses for:
 
 # 🌐 Connect With Me
 
-[LinkedIn](https://linkedin.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Karan%20Singh-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com)
 
-[Twitter](https://x.com/Karann2203ai)
+[![Twitter](https://img.shields.io/badge/X-KaranAI-black?style=for-the-badge&logo=x)](https://x.com/Karann2203ai)
 
-[Portfolio](https://yourportfolio.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Website-orange?style=for-the-badge&logo=google-chrome)](https://yourportfolio.com)
 
 ---
 
