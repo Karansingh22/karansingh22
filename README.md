@@ -21,11 +21,9 @@ Building scalable AI systems, autonomous agents, and production RAG pipelines.
 
 # 🚀 About Me
 
-* 🧠 Building **Agentic AI Systems**
-* 🤖 Working with **LLMs, RAG, LangChain, LangGraph**
-* ☁️ Deploying AI on **GCP**
-* 🔍 Exploring **Autonomous Agents + AI Infrastructure**
-* 📦 Containerizing ML systems with **Docker**
+Building production-grade AI agents and RAG systems.
+Experienced in LLM orchestration, vector retrieval, and agent workflows.
+Focused on scalable GenAI infrastructure.
 
 ---
 
@@ -50,7 +48,13 @@ Building scalable AI systems, autonomous agents, and production RAG pipelines.
 ![SQL](https://img.shields.io/badge/SQL-orange?style=for-the-badge\&logo=mysql)
 
 ---
+## 🧠 LLMs
 
+![Gemini](https://img.shields.io/badge/Gemini-Google%20LLM-blue?style=for-the-badge)
+![OpenAI](https://img.shields.io/badge/OpenAI-GPT-black?style=for-the-badge)
+![Groq](https://img.shields.io/badge/Groq-Fast%20Inference-black?style=for-the-badge&logo=groq&logoColor=white)
+
+---
 ## 🤖 AI Frameworks
 
 ![LangChain](https://img.shields.io/badge/LangChain-black?style=for-the-badge)
@@ -74,27 +78,20 @@ Building scalable AI systems, autonomous agents, and production RAG pipelines.
 ---
 
 ## ⚙️ DevOps
-
 ![Docker](https://img.shields.io/badge/Docker-blue?style=for-the-badge\&logo=docker)
 
 ---
 
 # 🧩 Featured AI Projects
-
 ### 🤖 AI IAM Root Cause Analysis Agent
-
 AI agent that analyzes IAM incidents and generates root cause explanations.
-
 Tech stack:
-
 LangGraph • LLM Agents • Graph reasoning
 
 ---
 
 ### 📚 Enterprise RAG Pipeline
-
 Features:
-
 * Multi-document ingestion
 * Table parsing
 * Vector search
