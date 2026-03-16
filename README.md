@@ -50,6 +50,7 @@ Building scalable AI systems, autonomous agents, and production RAG pipelines.
 ![LangChain](https://img.shields.io/badge/LangChain-black?style=for-the-badge)
 ![LangGraph](https://img.shields.io/badge/LangGraph-purple?style=for-the-badge)
 ![CrewAI](https://img.shields.io/badge/CrewAI-blue?style=for-the-badge)
+![Google ADK](https://img.shields.io)
 ![Transformers](https://img.shields.io/badge/HuggingFace-yellow?style=for-the-badge)
 
 ### Cloud
@@ -138,7 +139,7 @@ Evaluate AI responses for:
 
 [LinkedIn](https://linkedin.com)
 
-[Twitter](https://twitter.com)
+[Twitter](https://x.com/Karann2203ai)
 
 [Portfolio](https://yourportfolio.com)
 
