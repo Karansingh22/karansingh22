@@ -1,7 +1,7 @@
 <!-- ================= HEADER ================= -->
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Karansingh22/karansingh22/main/github banner.png" width="100%">
+  <img src="https://raw.githubusercontent.com/Karansingh22/karansingh22/main/github-banner.png" width="100%" height="40%">
 </p>
 
 <h1 align="center">Hi 👋, I'm Karan Singh</h1>
@@ -134,10 +134,8 @@ Evaluate AI responses for:
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Karansingh22&show_icons=true&theme=radical"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Karansingh22&theme=radical"/>
-
+<img src="https://github-readme-stats.vercel.app/api?username=Karansingh22&show_icons=true&theme=radical&rank_icon=github" alt="Karan's Stats" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Karansingh22&theme=radical" alt="Streak Stats" />
 </p>
 
 ---
