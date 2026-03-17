@@ -1,7 +1,7 @@
 <!-- ================= HEADER ================= -->
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Karansingh22/karansingh22/main/github-banner.png" width="100%" height="40%">
+  <img src="https://raw.githubusercontent.com/Karansingh22/karansingh22/main/github-banner.png" width="100%" height="30%">
 </p>
 
 <h1 align="center">Hi 👋, I'm Karan Singh</h1>
