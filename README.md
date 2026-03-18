@@ -81,6 +81,8 @@ Focused on scalable GenAI infrastructure.
 ![Docker](https://img.shields.io/badge/Docker-blue?style=for-the-badge\&logo=docker)
 
 ---
+<!--
+Remove commented-out AI projects section
 
 # 🧩 Featured AI Projects
 ### 🤖 AI IAM Root Cause Analysis Agent
@@ -126,7 +128,7 @@ Evaluate AI responses for:
 * grounded responses
 
 ---
-
+--->
 # 📊 GitHub Stats
 
 <p align="center">
